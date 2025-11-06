@@ -1,0 +1,8 @@
+export enum Screen {
+  SPLASH = 'SPLASH',
+  LOGIN = 'LOGIN',
+  SIGNUP = 'SIGNUP',
+  ONBOARDING = 'ONBOARDING',
+  MAIN = 'MAIN',
+  CURIOSITIES = 'CURIOSITIES',
+}
